@@ -1,6 +1,6 @@
 body {
     color: #FF7D29;
-    background: #FEFFD2;
+    background: #945400;
     font-family: "Roboto", Arial, Helvetica, sans-serif;
 }
 
@@ -22,12 +22,19 @@ footer{
     height: 100px;
     text-align: center;
     font-size: 40px;
-    padding: 10px;
+    padding: 12px 0 12px 0;
     
 }
 
 header ul li{
     float: left;
     display: inline;
+    padding: 20px;
+}
+
+main {
+    width: 80%;
+    background: #FEFFD2;
+    margin: 0 auto;
     padding: 20px;
 }
